@@ -12,9 +12,9 @@
 - Easy solved : 2
 - Medium attempted : 0
 ## freeCodeCamp
-- Profile URL : https://www.freecodecamp.org/[tumhara-username]
+- Profile URL : https://www.freecodecamp.org/namahbhagat
 - Current track : Responsive Web Design
-- Steps completed : [X+Y] / approx. 300 hours for full certification
+- Steps completed : 36 / approx. 300 hours for full certification
 ---
 ## Weekly Goals (update every Monday)
 Week of 21 November 2026:
