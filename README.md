@@ -1,5 +1,5 @@
 # Namah Bhagat — Developer Portfolio
-> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
+> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2026-30
 
 ---
 
